@@ -1,0 +1,27 @@
+{
+    "subprograma": "2022-2024",
+    "shape": [
+        168,
+        14
+    ],
+    "registros": 168,
+    "campi": 3,
+    "cursos": 48,
+    "modalidades": 7,
+    "nota_min_global": -105.03,
+    "nota_max_global": 173.057,
+    "campi_contagem": {
+        "Ceilândia": 18,
+        "Darcy Ribeiro": 147,
+        "Gama": 3
+    },
+    "modalidades_contagem": {
+        "AC": 54,
+        "CN": 33,
+        "EP_R1_NPPI": 22,
+        "EP_R1_PPI": 4,
+        "EP_R2_NPPI": 38,
+        "EP_R2_NPPI_PCD": 1,
+        "EP_R2_PPI": 16
+    }
+}

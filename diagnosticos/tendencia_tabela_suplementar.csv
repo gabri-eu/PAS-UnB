@@ -1,0 +1,544 @@
+Curso,Campus,Turno,modalidade_normalizada,n_trienios,primeiro_trienio,ultimo_trienio,variacao_absoluta,slope,elegivel_ranking_principal
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,CN,2,2019-2021,2020-2022,79.054,79.05399999999993,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2020-2022,147.497,73.74849999999999,False
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2018-2020,2019-2021,68.158,68.15799999999999,False
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,EP_R2_NPPI,2,2019-2021,2020-2022,62.781,62.780999999999935,False
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,2,2019-2021,2020-2022,61.283,61.282999999999966,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,2,2019-2021,2020-2022,52.211999999999996,52.21199999999995,False
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2018-2020,2019-2021,50.427,50.42699999999999,False
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,156.214,46.153600000000004,False
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,87.417,43.7085,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2,2018-2020,2019-2021,43.291,43.291,False
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2019-2021,2020-2022,42.83,42.82999999999995,False
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,CN,3,2018-2020,2020-2022,81.449,40.7245,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI_PCD,2,2018-2020,2019-2021,33.337,33.337,False
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,2,2020-2022,2021-2023,31.072,31.071999999999974,False
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,CN,2,2018-2020,2019-2021,30.064,30.064,False
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2019-2021,2020-2022,29.964,29.96399999999997,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4,2018-2020,2021-2023,89.533,29.151099999999996,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,2,2022-2024,2023-2025,28.661,28.661000000000076,False
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2019-2021,2021-2023,55.906000000000006,27.95299999999998,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,84.167,26.540699999999998,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,76.71199999999999,25.8961,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2018-2020,2021-2023,76.672,25.55733333333333,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,93.956,24.532000000000007,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,48.517,24.258500000000012,False
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,2,2018-2020,2020-2022,47.809,23.904499999999995,False
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,76.74,23.288200000000003,False
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2020-2022,46.069,23.0345,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,3,2019-2021,2021-2023,45.595,22.797499999999985,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,4,2018-2020,2021-2023,70.912,22.718200000000007,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2018-2020,2020-2022,45.23800000000001,22.619000000000003,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,CN,4,2018-2020,2021-2023,59.178000000000004,22.578100000000006,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,44.896,22.448000000000004,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2019-2021,2021-2023,43.916,21.957999999999984,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,70.729,21.239499999999996,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,78.778,20.512300000000007,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,69.33699999999999,20.399200000000008,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,75.76599999999999,19.607699999999998,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,59.588,19.47300000000001,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4,2018-2020,2021-2023,54.901999999999994,18.6924,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,CN,3,2018-2020,2021-2023,47.656000000000006,18.66335714285714,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,64.485,18.5269,False
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2018-2020,2020-2022,36.769,18.38450000000001,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2020-2022,2021-2023,17.801000000000002,17.800999999999977,False
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,2,2020-2022,2021-2023,17.255999999999997,17.255999999999975,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,54.422,17.0696,False
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2018-2020,2021-2023,50.751000000000005,16.917,False
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,51.239999999999995,16.58770000000001,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,49.23800000000001,16.541,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,2,2019-2021,2020-2022,16.448,16.447999999999983,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,CN,4,2018-2020,2021-2023,46.847,16.4039,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,AC,4,2018-2020,2021-2023,50.88,16.378500000000003,False
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,4,2018-2020,2021-2023,35.705,15.947800000000003,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,56.482,15.6782,False
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2019-2021,2021-2023,30.768,15.383999999999988,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,46.86,15.345500000000007,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2,2022-2024,2023-2025,15.27,15.270000000000046,False
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,64.325,15.170100000000005,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,AC,4,2018-2020,2021-2023,48.851,14.965600000000002,False
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,61.586,14.503200000000005,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2018-2020,2020-2022,28.546999999999997,14.273499999999999,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,41.13699999999999,14.19030000000001,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2021-2023,38.318000000000005,13.781142857142855,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,45.96000000000001,13.779500000000008,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,CN,4,2018-2020,2021-2023,40.714,13.770199999999999,False
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,40.022,13.631799999999997,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2021-2023,46.494,13.310142857142855,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,26.575999999999997,13.288000000000002,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2019-2021,2021-2023,26.344,13.171999999999992,False
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2021-2023,20.184999999999995,12.599071428571424,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2021-2023,36.436,12.35157142857142,False
+Ciências Naturais (Licenciatura),Planaltina,Noturno,AC,3,2019-2021,2021-2023,24.637999999999998,12.318999999999992,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,AC,3,2018-2020,2022-2024,48.1,12.025000000000006,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,35.94799999999999,11.82357142857142,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,37.587,11.566300000000004,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2020-2022,23.087,11.543499999999996,False
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2021-2023,42.993,11.102,False
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,51.016999999999996,11.090500000000004,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,53.016000000000005,11.037600000000001,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,39.037000000000006,10.704600000000003,False
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2020-2022,21.287000000000003,10.643500000000005,False
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2020-2022,21.064,10.532000000000004,False
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2019-2021,2021-2023,20.982000000000003,10.490999999999978,False
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,22.144,9.973857142857137,False
+Engenharias (FGA),Gama,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,36.199000000000005,9.930400000000002,False
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2020-2022,19.720000000000002,9.860000000000001,False
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,CN,3,2018-2020,2021-2023,29.409000000000006,9.852428571428565,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,18.64399999999999,9.322,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2018-2020,2021-2023,24.645000000000003,9.178214285714283,False
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2021-2023,37.673,9.006928571428572,False
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,15.073999999999998,8.816000000000006,False
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,19.811,8.75049999999999,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,CN,3,2018-2020,2021-2023,30.464,8.608999999999996,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,AC,4,2018-2020,2021-2023,51.088,8.536700000000003,False
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,25.955,8.441099999999995,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,32.202,8.399299999999998,False
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,4,2018-2020,2021-2023,18.975,8.386600000000008,False
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,47.881,8.080599999999997,False
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2019-2021,2021-2023,15.557,7.778499999999986,False
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2021-2023,21.111999999999995,7.778357142857132,False
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,2,2018-2020,2021-2023,23.199999999999996,7.733333333333334,False
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,AC,2,2018-2020,2020-2022,15.395000000000003,7.697500000000002,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,25.239000000000004,7.687800000000003,False
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2,2018-2020,2020-2022,14.644999999999996,7.3225,False
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,46.378,7.1839,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2021-2023,27.511,7.0717142857142825,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2018-2020,2021-2023,25.375,6.797857142857143,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,31.403,6.7822999999999976,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,23.505,6.6597000000000035,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2019-2021,2021-2023,13.277000000000001,6.6384999999999845,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2020-2022,13.218,6.6090000000000035,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,15.628999999999998,6.558900000000001,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,27.477999999999998,6.117800000000001,False
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,17.903999999999996,6.008800000000002,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2019-2021,2021-2023,11.951999999999998,5.975999999999999,False
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,4,2018-2020,2021-2023,30.933999999999997,5.882200000000002,False
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,CN,2,2018-2020,2020-2022,11.003000000000007,5.501500000000004,False
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2019-2021,2021-2023,10.304999999999998,5.152499999999994,False
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,11.423000000000002,5.105400000000003,False
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,4,2018-2020,2021-2023,18.599999999999994,4.981999999999998,False
+Engenharias (FGA),Gama,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,9.527000000000001,4.668599999999999,False
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4,2018-2020,2021-2023,21.353,4.561100000000003,False
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,CN,2,2018-2020,2021-2023,13.501000000000001,4.500333333333334,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,18.424999999999997,4.494800000000004,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,3,2018-2020,2021-2023,7.466000000000001,4.424999999999996,False
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,24.842,4.133800000000009,False
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-6.049999999999997,4.0563,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2019-2021,2021-2023,8.028999999999996,4.014499999999993,False
+Engenharias (FGA),Gama,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,8.844999999999999,3.9702999999999946,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2021-2023,7.884,3.9419999999999917,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,-1.1509999999999998,3.256142857142846,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2018-2020,2021-2023,9.664000000000001,3.221333333333336,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,21.247,3.0675000000000026,False
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,2,2018-2020,2019-2021,2.8689999999999998,2.8689999999999998,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2018-2020,2021-2023,7.329999999999998,2.443333333333334,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4,2018-2020,2021-2023,8.611,2.4199999999999973,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2021-2023,4.651,2.325499999999999,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,23.014000000000003,2.2005999999999952,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,12.025000000000006,2.1200000000000054,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2019-2021,2021-2023,3.256000000000004,1.627999999999995,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,5.989000000000004,1.6036000000000077,False
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,2.5820000000000007,1.530599999999998,False
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-4.9030000000000005,1.5106999999999997,False
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4,2018-2020,2021-2023,8.461999999999996,1.3888000000000051,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-3.1200000000000045,1.3093000000000006,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-4.219999999999992,1.198500000000003,False
+História (Licenciatura),Darcy Ribeiro,Noturno,CN,3,2018-2020,2023-2025,32.731,0.9459285714285719,False
+Ciências Naturais (Licenciatura),Planaltina,Diurno,EP_R2_PPI,2,2018-2020,2020-2022,1.5820000000000007,0.7910000000000093,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,23.933,0.7893000000000002,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-11.116000000000003,0.77389999999999,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,18.799000000000007,0.7661000000000169,False
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,CN,2,2019-2021,2021-2023,1.2209999999999965,0.6104999999999945,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,8.760999999999996,0.3916000000000043,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,4.475000000000001,0.3042999999999953,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,4.049999999999997,0.2469000000000059,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2018-2020,2021-2023,-0.9369999999999976,0.2457142857142741,False
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,14.457999999999998,0.11180000000000094,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,5.189,-0.12209999999999815,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,-9.885999999999996,-0.3292000000000009,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,CN,2,2018-2020,2022-2024,-2.392000000000003,-0.5979999999999999,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-20.585000000000008,-0.6172000000000053,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,4,2018-2020,2021-2023,3.1639999999999997,-0.6975000000000011,False
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,12.305999999999997,-0.739899999999996,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-9.445,-0.9188000000000005,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,6.253000000000004,-1.0478999999999976,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,2.027000000000001,-1.0484000000000044,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,CN,3,2019-2021,2023-2025,-5.4,-1.3500000000000068,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2019-2021,2021-2023,-3.3200000000000003,-1.660000000000004,False
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,2,2019-2021,2021-2023,-4.106,-2.0529999999999995,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,2,2018-2020,2020-2022,-4.161999999999999,-2.0809999999999977,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-9.599000000000004,-2.6142000000000034,False
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,CN,2,2019-2021,2020-2022,-2.703000000000003,-2.7030000000000087,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-14.523000000000001,-2.7472999999999996,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,-8.701999999999998,-2.799785714285714,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-22.127,-2.9598000000000018,False
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,2,2018-2020,2020-2022,-5.948999999999998,-2.9744999999999955,False
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2021-2023,-13.625,-3.189714285714292,False
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,CN,4,2018-2020,2021-2023,-4.636000000000003,-3.5821,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2018-2020,2021-2023,-11.854999999999997,-3.6821428571428667,False
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-13.895999999999994,-3.862299999999988,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-25.892,-3.946899999999994,False
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-8.074000000000005,-4.037,False
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-3.3060000000000045,-4.1342,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2019-2021,2021-2023,-8.608000000000004,-4.303999999999996,False
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3,2018-2020,2020-2022,-9.443000000000012,-4.721500000000004,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2020-2022,-9.641999999999996,-4.820999999999997,False
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,-37.673,-4.972857142857148,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-22.454,-5.157,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2018-2020,2021-2023,-10.189999999999998,-5.176857142857144,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,-6.460000000000008,-5.1887000000000025,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,-8.390999999999998,-5.483299999999996,False
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,-7.3770000000000024,-6.061800000000003,False
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2021-2023,-36.035999999999994,-6.098357142857132,False
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2019-2021,2021-2023,-12.380000000000003,-6.190000000000008,False
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-25.037,-6.370900000000003,False
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-12.823,-6.411499999999994,False
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2018-2020,2021-2023,-20.382,-6.793999999999997,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-18.215,-6.978099999999996,False
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2019-2021,2021-2023,-14.164000000000001,-7.08200000000002,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,CN,3,2019-2021,2021-2023,-14.376000000000001,-7.187999999999993,False
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,-23.961,-7.2559285714285755,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-21.5,-7.283399999999998,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-11.671000000000006,-7.3077999999999985,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-15.087999999999997,-7.543999999999997,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,CN,3,2018-2020,2023-2025,-26.971,-7.984785714285713,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2019-2021,2021-2023,-16.136000000000003,-8.068000000000003,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-16.275,-8.137499999999996,False
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-5.035,-8.1615,False
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-13.032999999999998,-8.197199999999997,False
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-11.955000000000002,-8.263600000000002,False
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-32.074,-8.3716,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,4,2018-2020,2021-2023,-46.354,-8.49120000000001,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-29.979,-8.565400000000002,False
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,3,2018-2020,2021-2023,-21.322999999999993,-8.7675,False
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2021-2023,-24.486999999999995,-8.803285714285723,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-13.320999999999998,-9.041299999999996,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,4,2018-2020,2021-2023,-42.099,-9.455000000000009,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,CN,3,2019-2021,2023-2025,-38.367000000000004,-9.591749999999998,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2022-2024,-39.628,-9.642307692307693,False
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2020-2022,2021-2023,-9.887999999999998,-9.887999999999995,False
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4,2018-2020,2021-2023,-33.024,-10.320099999999995,False
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2019-2021,2021-2023,-20.802999999999997,-10.401499999999997,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2,2018-2020,2021-2023,-31.302,-10.434,False
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,2,2018-2020,2019-2021,-10.572000000000003,-10.571999999999989,False
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,2,2019-2021,2021-2023,-21.501,-10.7505,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-23.947999999999997,-10.781099999999997,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2021-2023,-22.624999999999993,-11.312500000000004,False
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2019-2021,2020-2022,-11.529,-11.529000000000005,False
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2021-2023,-43.277,-12.581500000000007,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-39.147,-12.780400000000004,False
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2020-2022,-13.244,-13.243999999999993,False
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3,2019-2021,2021-2023,-26.671999999999997,-13.335999999999983,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-34.424,-13.3774,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2018-2020,2021-2023,-36.764,-13.569857142857142,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4,2018-2020,2021-2023,-22.005999999999997,-13.6684,False
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-37.897,-13.732000000000001,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2020-2022,-28.037,-14.018499999999996,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2019-2021,2021-2023,-28.579,-14.289500000000002,False
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2018-2020,2020-2022,-30.189999999999998,-15.094999999999992,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,-48.345,-15.701399999999994,False
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,CN,3,2019-2021,2023-2025,-67.012,-16.75300000000001,False
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2,2019-2021,2020-2022,-17.799999999999997,-17.8,False
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2019-2021,2021-2023,-35.722,-17.860999999999997,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-36.65,-18.324999999999992,False
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,CN,2,2020-2022,2021-2023,-18.56,-18.559999999999985,False
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2019-2021,2021-2023,-37.195,-18.597499999999997,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-45.623000000000005,-20.5635,False
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,CN,2,2020-2022,2021-2023,-20.909,-20.90899999999998,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2019-2021,2021-2023,-42.824000000000005,-21.412000000000003,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4,2018-2020,2021-2023,-62.809000000000005,-21.463500000000003,False
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3,2018-2020,2021-2023,-73.73,-22.02885714285715,False
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2019-2021,2020-2022,-22.03,-22.029999999999987,False
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,2,2019-2021,2021-2023,-44.265,-22.132499999999997,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2018-2020,2022-2024,-88.72,-22.179999999999996,False
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2021-2023,-46.048,-23.023999999999997,False
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4,2018-2020,2021-2023,-80.37700000000001,-23.3834,False
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2,2019-2021,2020-2022,-23.664999999999992,-23.665,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2021-2023,-63.74700000000001,-23.88985714285714,False
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3,2018-2020,2020-2022,-48.818999999999996,-24.409499999999998,False
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3,2019-2021,2021-2023,-52.305,-26.152500000000003,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2,2019-2021,2020-2022,-27.198999999999998,-27.199000000000005,False
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-59.348,-29.674000000000003,False
+Ciências Naturais (Licenciatura),Planaltina,Diurno,EP_R1_PPI,2,2020-2022,2021-2023,-30.158,-30.157999999999976,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2,2019-2021,2020-2022,-34.115,-34.115,False
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3,2018-2020,2020-2022,-73.928,-36.964,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,2,2019-2021,2021-2023,-77.56700000000001,-38.7835,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2,2018-2020,2019-2021,-39.216,-39.215999999999994,False
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2019-2021,2021-2023,-83.26599999999999,-41.633,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2020-2022,2021-2023,-41.786,-41.78599999999996,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3,2019-2021,2021-2023,-113.40200000000002,-56.70099999999998,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2,2020-2022,2021-2023,-57.025,-57.02499999999994,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2021-2023,2021-2023,0.0,,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2021-2023,2021-2023,0.0,,False
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,AC,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Noturno,AC,1,2023-2025,2023-2025,0.0,,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1,2020-2022,2020-2022,0.0,,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2019-2021,2019-2021,0.0,,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,AC,1,2021-2023,2021-2023,0.0,,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2018-2020,2018-2020,0.0,,False
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,CN,1,2023-2025,2023-2025,0.0,,False
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2022-2024,2022-2024,0.0,,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2018-2020,2018-2020,0.0,,False
+Artes Visuais (Licenciatura),Darcy Ribeiro,Noturno,AC,1,2018-2020,2018-2020,0.0,,False
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1,2020-2022,2020-2022,0.0,,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,AC,1,2019-2021,2019-2021,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,CN,1,2019-2021,2019-2021,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2019-2021,2019-2021,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2019-2021,2019-2021,,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1,2019-2021,2019-2021,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2019-2021,2019-2021,0.0,,False
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1,2022-2024,2022-2024,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1,2018-2020,2018-2020,0.0,,False
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2021-2023,2021-2023,0.0,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4,2018-2020,2021-2023,-15.352999999999994,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3,2019-2021,2021-2023,,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4,2018-2020,2021-2023,21.584,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Naturais (Licenciatura),Planaltina,Noturno,CN,1,2019-2021,2019-2021,0.0,,False
+Ciências Naturais (Licenciatura),Planaltina,Noturno,EP_R2_PPI,1,2020-2022,2020-2022,0.0,,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2020-2022,2020-2022,0.0,,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,1,2022-2024,2022-2024,0.0,,False
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1,2020-2022,2020-2022,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI_PCD,1,2018-2020,2018-2020,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1,2022-2024,2022-2024,0.0,,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2019-2021,2019-2021,0.0,,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1,2019-2021,2019-2021,0.0,,False
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharias (FGA),Gama,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharias (FGA),Gama,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Engenharias (FGA),Gama,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Engenharias (FGA),Gama,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2020-2022,2020-2022,0.0,,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2018-2020,2018-2020,0.0,,False
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Física (Licenciatura),Darcy Ribeiro,Noturno,CN,1,2020-2022,2020-2022,0.0,,False
+Física (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2020-2022,2020-2022,0.0,,False
+Física (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2019-2021,2019-2021,0.0,,False
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,CN,1,2019-2021,2019-2021,0.0,,False
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2020-2022,2020-2022,0.0,,False
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2018-2020,2018-2020,0.0,,False
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2019-2021,2019-2021,0.0,,False
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2020-2022,2020-2022,0.0,,False
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,EP_R2_PPI,1,2019-2021,2019-2021,0.0,,False
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2021-2023,2021-2023,0.0,,False
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1,2019-2021,2019-2021,0.0,,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Gestão do Agronegócio (Bacharelado),Planaltina,Diurno,CN,1,2020-2022,2020-2022,0.0,,False
+Gestão do Agronegócio (Bacharelado),Planaltina,Diurno,EP_R2_NPPI,1,2021-2023,2021-2023,0.0,,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI_PCD,1,2019-2021,2019-2021,0.0,,False
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1,2019-2021,2019-2021,0.0,,False
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,1,2018-2020,2018-2020,0.0,,False
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,CN,1,2021-2023,2021-2023,0.0,,False
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2020-2022,2020-2022,0.0,,False
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2018-2020,2018-2020,0.0,,False
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1,2018-2020,2018-2020,0.0,,False
+Letras – Tradução – Francês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2018-2020,2018-2020,0.0,,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2020-2022,2020-2022,0.0,,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2019-2021,2019-2021,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2018-2020,2018-2020,0.0,,False
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2021-2023,2021-2023,0.0,,False
+Música (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2019-2021,2019-2021,0.0,,False
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1,2023-2025,2023-2025,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1,2021-2023,2021-2023,0.0,,False
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2020-2022,2020-2022,0.0,,False
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Química (Licenciatura),Darcy Ribeiro,Noturno,CN,1,2019-2021,2019-2021,0.0,,False
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1,2018-2020,2018-2020,0.0,,False
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1,2019-2021,2019-2021,0.0,,False
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1,2020-2022,2020-2022,0.0,,False
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,CN,1,2021-2023,2021-2023,0.0,,False
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R1_PPI,1,2018-2020,2018-2020,0.0,,False
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R2_NPPI,1,2019-2021,2019-2021,0.0,,False
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R2_PPI,1,2020-2022,2020-2022,0.0,,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1,2023-2025,2023-2025,0.0,,False
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1,2023-2025,2023-2025,0.0,,False
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1,2019-2021,2019-2021,0.0,,False
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1,2018-2020,2018-2020,0.0,,False

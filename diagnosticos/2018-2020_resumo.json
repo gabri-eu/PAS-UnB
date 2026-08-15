@@ -1,0 +1,29 @@
+{
+    "subprograma": "2018-2020",
+    "shape": [
+        436,
+        14
+    ],
+    "registros": 436,
+    "campi": 4,
+    "cursos": 88,
+    "modalidades": 8,
+    "nota_min_global": -102.234,
+    "nota_max_global": 190.742,
+    "campi_contagem": {
+        "Ceilândia": 34,
+        "Darcy Ribeiro": 392,
+        "Gama": 6,
+        "Planaltina": 4
+    },
+    "modalidades_contagem": {
+        "AC": 98,
+        "CN": 68,
+        "EP_R1_NPPI": 52,
+        "EP_R1_PPI": 60,
+        "EP_R1_PPI_PCD": 2,
+        "EP_R2_NPPI": 82,
+        "EP_R2_PPI": 73,
+        "EP_R2_PPI_PCD": 1
+    }
+}

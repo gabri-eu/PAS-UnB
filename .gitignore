@@ -1,0 +1,16 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos grandes/binários de dados intermediários
+*.parquet
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

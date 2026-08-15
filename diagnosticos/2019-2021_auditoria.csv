@@ -1,0 +1,464 @@
+﻿Subprograma,Ano,Campus,Curso,Turno,Modalidade,modalidade_normalizada,escola_publica,faixa_renda,grupo_etnico,pcd,limite_salario_minimo,Nota Mínima,Nota Máxima
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-5.786,-0.285
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-38.327,23.576
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-15.383,-0.009
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-32.915,0.643
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-11.331,85.005
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Diurno,AC,AC,False,,,False,,36.705,120.3
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-1.176,2.32
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-72.089,-12.149
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-28.8,11.743
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-51.667,-6.11
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-8.376,14.991
+2019-2021,2021,Darcy Ribeiro,Administração (Bacharelado),Noturno,AC,AC,False,,,False,,-2.777,98.221
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-13.14,11.95
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-60.355,-33.373
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-50.337,33.84
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-79.596,
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-47.09,38.297
+2019-2021,2021,Darcy Ribeiro,Agronomia (Bacharelado),Diurno,AC,AC,False,,,False,,-9.125,49.697
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,85.859,85.859
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,16.653,31.35
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,20.353,38.018
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,18.42,53.972
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,49.823,61.77
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Diurno,AC,AC,False,,,False,,74.758,
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-2.692,-2.692
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-46.6,-28.781
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-2.815,12.718
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-10.972,-10.972
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-14.083,12.438
+2019-2021,2021,Darcy Ribeiro,Arquitetura e Urbanismo (Bacharelado),Noturno,AC,AC,False,,,False,,19.181,76.568
+2019-2021,2021,Darcy Ribeiro,Arquivologia (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-72.96,-72.96
+2019-2021,2021,Darcy Ribeiro,Arquivologia (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-59.094,-59.094
+2019-2021,2021,Darcy Ribeiro,Arquivologia (Bacharelado),Noturno,AC,AC,False,,,False,,-70.173,-5.298
+2019-2021,2021,Darcy Ribeiro,Artes Cênicas (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,0.432,0.432
+2019-2021,2021,Darcy Ribeiro,Artes Cênicas (Bacharelado),Diurno,AC,AC,False,,,False,,-31.865,22.845
+2019-2021,2021,Darcy Ribeiro,Artes Visuais (Bacharelado),Diurno,AC,AC,False,,,False,,-68.761,10.926
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-13.884,-13.884
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-41.515,-41.515
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-36.505,-15.885
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-9.93,-9.93
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-10.259,9.476
+2019-2021,2021,Darcy Ribeiro,Biblioteconomia (Bacharelado),Diurno,AC,AC,False,,,False,,-80.935,60.65
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,29.186,29.186
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-29.963,12.895
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-62.356,44.477
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-53.337,58.876
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,55.938,88.431
+2019-2021,2021,Darcy Ribeiro,Biotecnologia (Bacharelado),Diurno,AC,AC,False,,,False,,87.359,154.25
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,82.755,82.755
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,9.006,79.464
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,46.784,65.016
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,29.628,64.873
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,114.94,142.35
+2019-2021,2021,Darcy Ribeiro,Ciência da Computação (Bacharelado),Diurno,AC,AC,False,,,False,,115.0,192.19
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-6.889,-6.889
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-14.082,41.919
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-27.935,-27.935
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-50.288,-8.471
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-13.224,26.979
+2019-2021,2021,Darcy Ribeiro,Ciência Política (Bacharelado),Diurno,AC,AC,False,,,False,,47.264,128.48
+2019-2021,2021,Darcy Ribeiro,Ciências Ambientais (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-16.032,-16.032
+2019-2021,2021,Darcy Ribeiro,Ciências Ambientais (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-15.686,-15.686
+2019-2021,2021,Darcy Ribeiro,Ciências Ambientais (Bacharelado),Noturno,AC,AC,False,,,False,,-63.616,118.33
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,45.804,45.804
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,,-7.024
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,38.006,47.711
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,21.358,36.304
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,51.276,55.29
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Diurno,AC,AC,False,,,False,,61.373,143.74
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-30.284,
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,,13.346
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,,12.234
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,,4.995
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,,8.335
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Diurno,AC,AC,False,,,False,,13.056,64.385
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-2.467,25.446
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-50.721,-38.632
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-62.154,-7.43
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-52.303,16.406
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-68.678,-68.678
+2019-2021,2021,Darcy Ribeiro,Ciências Contábeis (Bacharelado),Noturno,AC,AC,False,,,False,,-20.052,46.127
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,19.037,19.037
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-25.591,29.074
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-60.912,0.999
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-40.775,55.484
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,44.978,51.9
+2019-2021,2021,Darcy Ribeiro,Ciências Econômicas (Bacharelado),Diurno,AC,AC,False,,,False,,92.033,
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,0.428,6.996
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-35.497,-29.515
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-32.433,-16.98
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-70.502,28.724
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-51.116,31.064
+2019-2021,2021,Darcy Ribeiro,Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,11.533,94.463
+2019-2021,2021,Darcy Ribeiro,Computação (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,-3.314,-3.314
+2019-2021,2021,Darcy Ribeiro,Computação (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-81.096,-81.096
+2019-2021,2021,Darcy Ribeiro,Computação (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-51.231,-44.126
+2019-2021,2021,Darcy Ribeiro,Computação (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-57.125,-53.651
+2019-2021,2021,Darcy Ribeiro,Computação (Licenciatura),Noturno,AC,AC,False,,,False,,-20.863,34.167
+2019-2021,2021,Darcy Ribeiro,Comunicação Organizacional (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-78.071,-78.071
+2019-2021,2021,Darcy Ribeiro,Comunicação Organizacional (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-76.574,-23.424
+2019-2021,2021,Darcy Ribeiro,Comunicação Organizacional (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-49.352,-45.012
+2019-2021,2021,Darcy Ribeiro,Comunicação Organizacional (Bacharelado),Noturno,AC,AC,False,,,False,,-17.502,62.26
+2019-2021,2021,Darcy Ribeiro,Comunicação Social – Audiovisual (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,48.632,48.632
+2019-2021,2021,Darcy Ribeiro,Comunicação Social – Audiovisual (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-36.365,-36.365
+2019-2021,2021,Darcy Ribeiro,Comunicação Social – Audiovisual (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-28.396,33.343
+2019-2021,2021,Darcy Ribeiro,Comunicação Social – Audiovisual (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-7.569,44.378
+2019-2021,2021,Darcy Ribeiro,Comunicação Social – Audiovisual (Bacharelado),Diurno,AC,AC,False,,,False,,64.46,
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,35.413,35.413
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,1.108,24.992
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,4.223,4.223
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,14.955,56.294
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,54.06,54.06
+2019-2021,2021,Darcy Ribeiro,Comunicação Social - Publicidade e Propaganda (Bacharelado),Diurno,AC,AC,False,,,False,,77.921,
+2019-2021,2021,Darcy Ribeiro,Design – Programação Visual/Projeto do Produto (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,24.028,24.028
+2019-2021,2021,Darcy Ribeiro,Design – Programação Visual/Projeto do Produto (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-31.239,-11.424
+2019-2021,2021,Darcy Ribeiro,Design – Programação Visual/Projeto do Produto (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-45.596,-45.596
+2019-2021,2021,Darcy Ribeiro,Design – Programação Visual/Projeto do Produto (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,47.464,47.464
+2019-2021,2021,Darcy Ribeiro,Design – Programação Visual/Projeto do Produto (Bacharelado),Diurno,AC,AC,False,,,False,,80.914,98.283
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,71.703,98.148
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,1.027,53.764
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,28.279,53.85
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,48.707,52.731
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,52.904,84.592
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,2.332,42.274
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,12.304,37.517
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,38.282,74.352
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,54.367,61.664
+2019-2021,2021,Darcy Ribeiro,Direito (Bacharelado),Noturno,AC,AC,False,,,False,,77.019,
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-7.405,-7.405
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-30.501,-17.981
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-54.427,-33.945
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-36.462,24.338
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,6.786,12.56
+2019-2021,2021,Darcy Ribeiro,Educação Física (Bacharelado),Diurno,AC,AC,False,,,False,,8.352,45.082
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,-18.38,-18.38
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-73.641,-24.238
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-53.868,-18.279
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-21.729,-5.99
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-21.889,-19.463
+2019-2021,2021,Darcy Ribeiro,Educação Física (Licenciatura),Diurno,AC,AC,False,,,False,,-21.256,46.723
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,33.356,33.356
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,4.875,33.844
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,26.39,29.599
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,19.771,40.127
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,64.649,65.414
+2019-2021,2021,Darcy Ribeiro,Enfermagem (Bacharelado),Diurno,AC,AC,False,,,False,,53.945,
+2019-2021,2021,Darcy Ribeiro,Engenharia Ambiental (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,72.619,72.619
+2019-2021,2021,Darcy Ribeiro,Engenharia Ambiental (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-72.216,-72.216
+2019-2021,2021,Darcy Ribeiro,Engenharia Ambiental (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-49.389,38.819
+2019-2021,2021,Darcy Ribeiro,Engenharia Ambiental (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-55.038,-2.954
+2019-2021,2021,Darcy Ribeiro,Engenharia Ambiental (Bacharelado),Diurno,AC,AC,False,,,False,,26.947,94.16
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,14.522,14.522
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-28.648,18.511
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-14.773,23.601
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-16.736,85.341
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-6.562,53.596
+2019-2021,2021,Darcy Ribeiro,Engenharia Civil (Bacharelado),Diurno,AC,AC,False,,,False,,96.375,
+2019-2021,2021,Darcy Ribeiro,Engenharia de Computação (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,84.173,84.173
+2019-2021,2021,Darcy Ribeiro,Engenharia de Computação (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,39.279,96.047
+2019-2021,2021,Darcy Ribeiro,Engenharia de Computação (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,17.976,19.536
+2019-2021,2021,Darcy Ribeiro,Engenharia de Computação (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,13.355,
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-20.158,-20.158
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-5.047,-5.047
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-47.974,-47.974
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-86.266,14.269
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,46.816,71.428
+2019-2021,2021,Darcy Ribeiro,Engenharia de Produção (Bacharelado),Noturno,AC,AC,False,,,False,,42.183,
+2019-2021,2021,Darcy Ribeiro,Engenharia de Redes de Comunicação (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,24.498,24.498
+2019-2021,2021,Darcy Ribeiro,Engenharia de Redes de Comunicação (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-43.862,-43.862
+2019-2021,2021,Darcy Ribeiro,Engenharia de Redes de Comunicação (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-41.369,24.509
+2019-2021,2021,Darcy Ribeiro,Engenharia de Redes de Comunicação (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-67.492,-21.402
+2019-2021,2021,Darcy Ribeiro,Engenharia de Redes de Comunicação (Bacharelado),Diurno,AC,AC,False,,,False,,1.695,71.841
+2019-2021,2021,Darcy Ribeiro,Engenharia Elétrica (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-12.839,-12.839
+2019-2021,2021,Darcy Ribeiro,Engenharia Elétrica (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-26.903,-26.903
+2019-2021,2021,Darcy Ribeiro,Engenharia Elétrica (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-38.064,19.809
+2019-2021,2021,Darcy Ribeiro,Engenharia Elétrica (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-20.572,66.75
+2019-2021,2021,Darcy Ribeiro,Engenharia Florestal (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-32.127,-32.127
+2019-2021,2021,Darcy Ribeiro,Engenharia Florestal (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-2.213,-2.213
+2019-2021,2021,Darcy Ribeiro,Engenharia Florestal (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-5.848,-5.848
+2019-2021,2021,Darcy Ribeiro,Engenharia Florestal (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-29.541,-29.541
+2019-2021,2021,Darcy Ribeiro,Engenharia Florestal (Bacharelado),Diurno,AC,AC,False,,,False,,-71.066,30.842
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecânica (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,25.588,25.588
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecânica (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-21.929,-3.886
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecânica (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-40.249,33.782
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecânica (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-28.117,20.947
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecânica (Bacharelado),Diurno,AC,AC,False,,,False,,80.147,
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecatrônica (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,84.165,84.165
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecatrônica (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-27.662,46.608
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecatrônica (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-29.193,1.117
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecatrônica (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-39.081,-20.043
+2019-2021,2021,Darcy Ribeiro,Engenharia Mecatrônica (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,49.02,79.438
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,11.144,11.144
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-35.915,5.342
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-47.162,-47.162
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-40.025,-40.025
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,13.493,
+2019-2021,2021,Darcy Ribeiro,Engenharia Química (Bacharelado),Diurno,AC,AC,False,,,False,,70.109,
+2019-2021,2021,Darcy Ribeiro,Estatística (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-38.073,-38.073
+2019-2021,2021,Darcy Ribeiro,Estatística (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-20.062,-12.041
+2019-2021,2021,Darcy Ribeiro,Estatística (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-39.185,-39.185
+2019-2021,2021,Darcy Ribeiro,Estatística (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-19.116,-19.116
+2019-2021,2021,Darcy Ribeiro,Estatística (Bacharelado),Diurno,AC,AC,False,,,False,,34.508,
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,51.589,51.589
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-5.174,25.813
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,15.342,15.796
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-34.082,-15.667
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,18.037,52.683
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Diurno,AC,AC,False,,,False,,60.297,
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,39.999,39.999
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-35.372,-22.447
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-10.711,-10.711
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-73.518,-0.575
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,1.051,1.051
+2019-2021,2021,Darcy Ribeiro,Farmácia (Bacharelado),Noturno,AC,AC,False,,,False,,-1.557,29.537
+2019-2021,2021,Darcy Ribeiro,Filosofia (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-68.136,-68.136
+2019-2021,2021,Darcy Ribeiro,Filosofia (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-86.322,1.642
+2019-2021,2021,Darcy Ribeiro,Filosofia (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,45.216,45.216
+2019-2021,2021,Darcy Ribeiro,Filosofia (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,-69.896,33.582
+2019-2021,2021,Darcy Ribeiro,Filosofia (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-59.768,-59.768
+2019-2021,2021,Darcy Ribeiro,Filosofia (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-63.589,-63.589
+2019-2021,2021,Darcy Ribeiro,Filosofia (Licenciatura),Noturno,AC,AC,False,,,False,,-52.983,37.478
+2019-2021,2021,Darcy Ribeiro,Física (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,39.226,39.226
+2019-2021,2021,Darcy Ribeiro,Física (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-59.265,65.812
+2019-2021,2021,Darcy Ribeiro,Física (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,20.11,20.11
+2019-2021,2021,Darcy Ribeiro,Física (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-4.154,48.857
+2019-2021,2021,Darcy Ribeiro,Física (Bacharelado),Diurno,AC,AC,False,,,False,,91.722,
+2019-2021,2021,Darcy Ribeiro,Geofísica (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-6.216,-6.216
+2019-2021,2021,Darcy Ribeiro,Geofísica (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-27.06,-27.06
+2019-2021,2021,Darcy Ribeiro,Geofísica (Bacharelado),Diurno,AC,AC,False,,,False,,-48.237,8.279
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,-8.341,-8.341
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-24.912,3.902
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,13.323,13.323
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-28.339,-20.368
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-8.556,19.938
+2019-2021,2021,Darcy Ribeiro,Geografia (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,-11.709,44.499
+2019-2021,2021,Darcy Ribeiro,Geologia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-33.967,-33.967
+2019-2021,2021,Darcy Ribeiro,Geologia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-59.404,-59.404
+2019-2021,2021,Darcy Ribeiro,Geologia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-36.351,-36.351
+2019-2021,2021,Darcy Ribeiro,Geologia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,33.859,33.859
+2019-2021,2021,Darcy Ribeiro,Geologia (Bacharelado),Diurno,AC,AC,False,,,False,,-68.729,68.345
+2019-2021,2021,Darcy Ribeiro,Gestão de Agronegócio (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-57.616,-57.616
+2019-2021,2021,Darcy Ribeiro,Gestão de Agronegócio (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-44.795,-33.635
+2019-2021,2021,Darcy Ribeiro,Gestão de Agronegócio (Bacharelado),Noturno,AC,AC,False,,,False,,-61.028,11.189
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-66.75,-66.75
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-67.263,9.475
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-94.961,-94.961
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-66.12,-0.681
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-81.612,-11.424
+2019-2021,2021,Darcy Ribeiro,Gestão de Políticas Públicas (Bacharelado),Noturno,AC,AC,False,,,False,,-51.535,51.644
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,13.241,13.241
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-11.321,15.341
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,11.681,53.113
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,0.911,44.728
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,24.189,24.459
+2019-2021,2021,Darcy Ribeiro,História (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,44.047,
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,25.055,25.055
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-9.043,32.413
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-17.651,-17.222
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-34.556,50.644
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-8.931,1.031
+2019-2021,2021,Darcy Ribeiro,História (Licenciatura),Noturno,AC,AC,False,,,False,,-38.56,24.313
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,76.01,76.01
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,5.241,7.797
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,40.539,40.539
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,23.778,43.842
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,69.465,69.465
+2019-2021,2021,Darcy Ribeiro,Jornalismo (Bacharelado),Diurno,AC,AC,False,,,False,,85.007,
+2019-2021,2021,Darcy Ribeiro,Letras – Português do Brasil como Segunda Língua (Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-35.98,-35.98
+2019-2021,2021,Darcy Ribeiro,Letras – Português do Brasil como Segunda Língua (Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-35.816,-25.7
+2019-2021,2021,Darcy Ribeiro,Letras – Português do Brasil como Segunda Língua (Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-60.95,-38.117
+2019-2021,2021,Darcy Ribeiro,Letras – Português do Brasil como Segunda Língua (Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-47.365,-3.586
+2019-2021,2021,Darcy Ribeiro,Letras – Português do Brasil como Segunda Língua (Licenciatura),Diurno,AC,AC,False,,,False,,-10.942,45.035
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Francês (Bacharelado),Diurno,AC,AC,False,,,False,,-28.614,14.02
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Inglês (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-51.286,-51.286
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Inglês (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-63.398,-41.295
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Inglês (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-34.883,-23.747
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Inglês (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,2.798,45.052
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Inglês (Bacharelado),Diurno,AC,AC,False,,,False,,14.876,72.134
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Espanhol (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-48.799,-25.873
+2019-2021,2021,Darcy Ribeiro,Letras – Tradução – Espanhol (Bacharelado),Noturno,AC,AC,False,,,False,,-59.585,-24.422
+2019-2021,2021,Darcy Ribeiro,Artes Cênicas (Literatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-10.798,-10.798
+2019-2021,2021,Darcy Ribeiro,Artes Cênicas (Literatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-49.617,-49.617
+2019-2021,2021,Darcy Ribeiro,Artes Cênicas (Literatura),Diurno,AC,AC,False,,,False,,18.627,18.627
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,40.662,40.662
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-25.71,32.075
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-18.134,22.642
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-26.888,-17.786
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,19.703,40.899
+2019-2021,2021,Darcy Ribeiro,Biologia (Licenciatura),Noturno,AC,AC,False,,,False,,5.948,
+2019-2021,2021,Darcy Ribeiro,Física (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-30.161,26.655
+2019-2021,2021,Darcy Ribeiro,Física (Licenciatura),Noturno,AC,AC,False,,,False,,-68.138,94.263
+2019-2021,2021,Darcy Ribeiro,Matemática (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,2.629,2.629
+2019-2021,2021,Darcy Ribeiro,Matemática (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-38.182,-20.674
+2019-2021,2021,Darcy Ribeiro,Matemática (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-11.475,23.132
+2019-2021,2021,Darcy Ribeiro,Matemática (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-54.593,1.689
+2019-2021,2021,Darcy Ribeiro,Matemática (Licenciatura),Noturno,AC,AC,False,,,False,,-49.204,9.671
+2019-2021,2021,Darcy Ribeiro,Música (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,17.12,17.12
+2019-2021,2021,Darcy Ribeiro,Química (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,-44.645,-44.645
+2019-2021,2021,Darcy Ribeiro,Química (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,13.391,13.391
+2019-2021,2021,Darcy Ribeiro,Química (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-24.258,-24.258
+2019-2021,2021,Darcy Ribeiro,Química (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,11.482,11.482
+2019-2021,2021,Darcy Ribeiro,Química (Licenciatura),Noturno,AC,AC,False,,,False,,-32.77,-32.77
+2019-2021,2021,Darcy Ribeiro,Japonês (Licenciatura),Noturno,EP_R2_PPI_PCD,EP_R2_PPI_PCD,True,R2,PPI,True,1.5,5.9,5.9
+2019-2021,2021,Darcy Ribeiro,Japonês (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,2.278,2.278
+2019-2021,2021,Darcy Ribeiro,Japonês (Licenciatura),Noturno,AC,AC,False,,,False,,-62.925,18.808
+2019-2021,2021,Darcy Ribeiro,Letras - Espanhol (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-54.875,-36.401
+2019-2021,2021,Darcy Ribeiro,Letras - Espanhol (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-27.424,-27.424
+2019-2021,2021,Darcy Ribeiro,Letras - Espanhol (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-45.262,-45.262
+2019-2021,2021,Darcy Ribeiro,Letras - Espanhol (Licenciatura),Noturno,AC,AC,False,,,False,,-98.76,13.701
+2019-2021,2021,Darcy Ribeiro,Línguas Estrangeiras Aplicadas (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-34.469,-34.469
+2019-2021,2021,Darcy Ribeiro,Línguas Estrangeiras Aplicadas (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,47.66,47.66
+2019-2021,2021,Darcy Ribeiro,Línguas Estrangeiras Aplicadas (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,21.416,21.416
+2019-2021,2021,Darcy Ribeiro,Línguas Estrangeiras Aplicadas (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-13.842,-0.945
+2019-2021,2021,Darcy Ribeiro,Línguas Estrangeiras Aplicadas (Bacharelado),Diurno,AC,AC,False,,,False,,-55.946,50.274
+2019-2021,2021,Darcy Ribeiro,Letras - Francês (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-2.644,-2.644
+2019-2021,2021,Darcy Ribeiro,Letras - Francês (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-48.718,-8.908
+2019-2021,2021,Darcy Ribeiro,Letras - Francês (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-43.649,-43.649
+2019-2021,2021,Darcy Ribeiro,Letras - Francês (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,-44.511,28.361
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,-25.636,-25.636
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-42.015,-39.516
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-3.967,-3.967
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,1.85,17.924
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,27.842,27.842
+2019-2021,2021,Darcy Ribeiro,Letras - Inglês (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,32.546,50.645
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,8.583,8.583
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-10.113,26.323
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,8.396,8.396
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-13.148,25.795
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,23.426,23.426
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,41.363,52.962
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,6.56,6.56
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-23.897,-23.897
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-51.267,-51.267
+2019-2021,2021,Darcy Ribeiro,Letras - Português (Licenciatura),Noturno,AC,AC,False,,,False,,-70.531,78.089
+2019-2021,2021,Darcy Ribeiro,Matemática (Bacharelado/Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,1.929,1.929
+2019-2021,2021,Darcy Ribeiro,Matemática (Bacharelado/Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-51.323,-0.098
+2019-2021,2021,Darcy Ribeiro,Matemática (Bacharelado/Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-60.003,32.678
+2019-2021,2021,Darcy Ribeiro,Matemática (Bacharelado/Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,40.087,40.087
+2019-2021,2021,Darcy Ribeiro,Matemática (Bacharelado/Licenciatura),Diurno,AC,AC,False,,,False,,22.51,91.155
+2019-2021,2021,Darcy Ribeiro,Medicina (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,70.434,77.743
+2019-2021,2021,Darcy Ribeiro,Medicina (Bacharelado),Diurno,EP_R1_PPI_PCD,EP_R1_PPI_PCD,True,R1,PPI,True,1.5,-6.687,-6.687
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,68.27,68.27
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,9.779,22.881
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,7.066,34.654
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,60.745,65.444
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,50.944,54.202
+2019-2021,2021,Darcy Ribeiro,Medicina Veterinária (Bacharelado),Diurno,AC,AC,False,,,False,,82.802,
+2019-2021,2021,Darcy Ribeiro,Museologia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-59.2,-59.2
+2019-2021,2021,Darcy Ribeiro,Museologia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-51.807,-48.412
+2019-2021,2021,Darcy Ribeiro,Museologia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-83.171,-5.934
+2019-2021,2021,Darcy Ribeiro,Museologia (Bacharelado),Diurno,AC,AC,False,,,False,,-69.548,21.708
+2019-2021,2021,Darcy Ribeiro,Música (Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,13.326,13.326
+2019-2021,2021,Darcy Ribeiro,Música (Licenciatura),Diurno,AC,AC,False,,,False,,-52.883,59.144
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,27.706,27.706
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-47.36,22.813
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,18.954,18.954
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-13.868,14.264
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,48.358,48.358
+2019-2021,2021,Darcy Ribeiro,Nutrição (Bacharelado),Diurno,AC,AC,False,,,False,,64.371,93.954
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,71.784,71.784
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,16.771,54.234
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,19.788,19.788
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,41.185,97.122
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,66.216,66.216
+2019-2021,2021,Darcy Ribeiro,Odontologia (Bacharelado),Diurno,AC,AC,False,,,False,,81.777,
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,CN,CN,False,,NEGROS,False,,-15.759,-9.929
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-36.471,26.623
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-34.756,25.725
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-28.413,6.627
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-15.683,22.02
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Diurno,AC,AC,False,,,False,,-20.971,44.375
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,17.691,17.691
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-53.278,-41.609
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-33.843,-8.815
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-28.92,-28.92
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-62.622,-17.576
+2019-2021,2021,Darcy Ribeiro,Pedagogia (Licenciatura),Noturno,AC,AC,False,,,False,,-58.685,-3.162
+2019-2021,2021,Darcy Ribeiro,Psicologia (Bacharelado / Licenciatura / Psicólogo),Diurno,CN,CN,False,,NEGROS,False,,60.228,60.228
+2019-2021,2021,Darcy Ribeiro,Psicologia (Bacharelado / Licenciatura / Psicólogo),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,23.235,34.134
+2019-2021,2021,Darcy Ribeiro,Psicologia (Bacharelado / Licenciatura / Psicólogo),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,47.859,69.85
+2019-2021,2021,Darcy Ribeiro,Psicologia (Bacharelado / Licenciatura / Psicólogo),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,43.34,66.078
+2019-2021,2021,Darcy Ribeiro,Química (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-22.823,-22.823
+2019-2021,2021,Darcy Ribeiro,Química (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-31.14,10.829
+2019-2021,2021,Darcy Ribeiro,Química (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-22.661,21.491
+2019-2021,2021,Darcy Ribeiro,Química (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-37.593,57.929
+2019-2021,2021,Darcy Ribeiro,Química (Bacharelado),Diurno,AC,AC,False,,,False,,16.702,89.253
+2019-2021,2021,Darcy Ribeiro,Química Tecnológica (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-2.177,-2.177
+2019-2021,2021,Darcy Ribeiro,Química Tecnológica (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,23.339,23.339
+2019-2021,2021,Darcy Ribeiro,Química Tecnológica (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-27.683,-27.683
+2019-2021,2021,Darcy Ribeiro,Química Tecnológica (Bacharelado),Diurno,AC,AC,False,,,False,,-23.379,65.907
+2019-2021,2021,Darcy Ribeiro,Relações Internacionais (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,47.562,47.562
+2019-2021,2021,Darcy Ribeiro,Relações Internacionais (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,17.31,73.797
+2019-2021,2021,Darcy Ribeiro,Relações Internacionais (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,11.118,64.536
+2019-2021,2021,Darcy Ribeiro,Relações Internacionais (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,46.911,
+2019-2021,2021,Darcy Ribeiro,Relações Internacionais (Bacharelado),Diurno,AC,AC,False,,,False,,98.313,
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,CN,CN,False,,NEGROS,False,,-38.727,-38.727
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-64.747,-22.831
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-1.391,-1.391
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-20.34,-20.34
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-71.558,-36.051
+2019-2021,2021,Darcy Ribeiro,Saúde Coletiva (Bacharelado),Noturno,AC,AC,False,,,False,,-55.136,-44.554
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Noturno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-42.517,-26.01
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Noturno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-35.078,-35.078
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-37.74,-14.877
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Noturno,AC,AC,False,,,False,,-76.148,-17.915
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,14.694,14.694
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-10.261,19.595
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-33.215,1.085
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-58.673,-11.65
+2019-2021,2021,Darcy Ribeiro,Serviço Social (Bacharelado),Diurno,AC,AC,False,,,False,,3.922,58.117
+2019-2021,2021,Darcy Ribeiro,"Teoria, Crítica e História da Arte (Bacharelado)",Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-27.615,-13.504
+2019-2021,2021,Darcy Ribeiro,"Teoria, Crítica e História da Arte (Bacharelado)",Noturno,AC,AC,False,,,False,,-0.054,50.763
+2019-2021,2021,Darcy Ribeiro,Turismo (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-21.951,-21.951
+2019-2021,2021,Darcy Ribeiro,Turismo (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-54.814,-54.814
+2019-2021,2021,Darcy Ribeiro,Turismo (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-64.42,-64.42
+2019-2021,2021,Darcy Ribeiro,Turismo (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-79.506,-24.63
+2019-2021,2021,Darcy Ribeiro,Turismo (Bacharelado),Diurno,AC,AC,False,,,False,,-89.917,12.676
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,36.97,36.97
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,3.019,34.414
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,14.131,22.52
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,4.949,31.291
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,26.36,46.546
+2019-2021,2021,Ceilândia,Enfermagem (Bacharelado),Diurno,AC,AC,False,,,False,,26.432,71.32
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,3.739,3.739
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,2.818,2.818
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-47.03,60.896
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-17.25,63.724
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,22.311,28.161
+2019-2021,2021,Ceilândia,Farmácia (Bacharelado),Diurno,AC,AC,False,,,False,,-1.212,74.556
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,23.699,23.699
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-13.417,3.499
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,0.515,17.749
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-7.663,20.714
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,10.703,24.247
+2019-2021,2021,Ceilândia,Fisioterapia (Bacharelado),Diurno,AC,AC,False,,,False,,30.618,
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,46.715,46.715
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-11.763,14.629
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-8.658,18.255
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-69.725,23.483
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,25.151,25.151
+2019-2021,2021,Ceilândia,Fonoaudiologia (Bacharelado),Diurno,AC,AC,False,,,False,,-14.934,11.358
+2019-2021,2021,Ceilândia,Saúde Coletiva (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-55.278,-31.583
+2019-2021,2021,Ceilândia,Saúde Coletiva (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-58.614,-58.614
+2019-2021,2021,Ceilândia,Saúde Coletiva (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-95.903,-28.196
+2019-2021,2021,Ceilândia,Saúde Coletiva (Bacharelado),Diurno,AC,AC,False,,,False,,-67.997,-8.405
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,CN,CN,False,,NEGROS,False,,-8.712,-8.712
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-62.296,-38.06
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-29.114,-25.419
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-69.768,9.306
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-14.518,37.811
+2019-2021,2021,Ceilândia,Terapia Ocupacional (Bacharelado),Diurno,AC,AC,False,,,False,,-21.685,19.322
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,CN,CN,False,,NEGROS,False,,3.555,62.949
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,EP_R1_PPI,EP_R1_PPI,True,R1,PPI,False,1.5,-67.127,17.176
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,EP_R1_NPPI,EP_R1_NPPI,True,R1,NPPI,False,1.5,-53.711,45.621
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-54.926,44.722
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,12.504,93.644
+2019-2021,2021,Gama,Engenharias (FGA),Diurno,AC,AC,False,,,False,,50.195,
+2019-2021,2021,Planaltina,Ciências Naturais (Licenciatura),Diurno,AC,AC,False,,,False,,-85.5,-85.5
+2019-2021,2021,Planaltina,Ciências Naturais (Licenciatura),Noturno,CN,CN,False,,NEGROS,False,,-90.203,-90.203
+2019-2021,2021,Planaltina,Ciências Naturais (Licenciatura),Noturno,AC,AC,False,,,False,,-76.854,-20.469
+2019-2021,2021,Planaltina,Gestão Ambiental (Bacharelado),Noturno,EP_R2_PPI,EP_R2_PPI,True,R2,PPI,False,1.5,-34.138,-34.138
+2019-2021,2021,Planaltina,Gestão Ambiental (Bacharelado),Noturno,EP_R2_NPPI,EP_R2_NPPI,True,R2,NPPI,False,1.5,-73.509,39.118
+2019-2021,2021,Planaltina,Gestão do Agronegócio (Bacharelado),Diurno,AC,AC,False,,,False,,-78.135,-78.135

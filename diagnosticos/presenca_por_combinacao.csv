@@ -1,0 +1,766 @@
+Curso,Campus,Turno,modalidade_normalizada,n_trienios
+Administração (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Administração (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Administração (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Administração (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Administração (Bacharelado),Darcy Ribeiro,Noturno,CN,5
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,4
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Administração (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Agronomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,CN,6
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Arquitetura e Urbanismo (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,CN,3
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,2
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Arquivologia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Artes Cênicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,AC,1
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Artes Cênicas (Licenciatura),Darcy Ribeiro,Noturno,AC,1
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,AC,4
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1
+Artes Cênicas (Literatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,AC,1
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Artes Cênicas (Literatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,CN,1
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Artes Visuais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,AC,3
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,CN,2
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Artes Visuais (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,2
+Artes Visuais (Licenciatura),Darcy Ribeiro,Noturno,AC,1
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Biblioteconomia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Biologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,AC,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,CN,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1
+Biologia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,CN,3
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Biologia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,4
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Biotecnologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Ciência Política (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,5
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Ciência da Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,CN,4
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Ciências Ambientais (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,CN,3
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,2
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,4
+Ciências Contábeis (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Ciências Econômicas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Ciências Naturais (Licenciatura),Planaltina,Diurno,AC,5
+Ciências Naturais (Licenciatura),Planaltina,Diurno,EP_R1_PPI,2
+Ciências Naturais (Licenciatura),Planaltina,Diurno,EP_R2_PPI,2
+Ciências Naturais (Licenciatura),Planaltina,Noturno,AC,3
+Ciências Naturais (Licenciatura),Planaltina,Noturno,CN,1
+Ciências Naturais (Licenciatura),Planaltina,Noturno,EP_R2_PPI,1
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,5
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,5
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Ciências Sociais – Antropologia/ Sociologia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Computação (Licenciatura),Darcy Ribeiro,Noturno,AC,6
+Computação (Licenciatura),Darcy Ribeiro,Noturno,CN,4
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,4
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI_PCD,1
+Computação (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,CN,5
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Comunicação Organizacional (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Comunicação Social - Publicidade e Propaganda (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Comunicação Social – Audiovisual (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,1
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Design – Programação Visual/Projeto do Produto (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Direito (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,5
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI_PCD,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Direito (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Direito (Bacharelado),Darcy Ribeiro,Noturno,CN,6
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,5
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,5
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,5
+Direito (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,AC,4
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Educação Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,AC,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,CN,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Educação Física (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,2
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,1
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Educação Física Ciclo Básico (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Enfermagem (Bacharelado),Ceilândia,Diurno,AC,6
+Enfermagem (Bacharelado),Ceilândia,Diurno,CN,6
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,5
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,5
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ_PCD,1
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,5
+Enfermagem (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Enfermagem (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Ambiental (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia Civil (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Engenharia Elétrica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Florestal (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia Mecatrônica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia Mecânica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,CN,3
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Engenharia de Computação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,CN,6
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,2
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,2
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1
+Engenharia de Produção (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Engenharia de Redes de Comunicação (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Engenharias (FGA),Gama,Diurno,AC,6
+Engenharias (FGA),Gama,Diurno,CN,6
+Engenharias (FGA),Gama,Diurno,EP_R1_NPPI,4
+Engenharias (FGA),Gama,Diurno,EP_R1_NPPIQ,1
+Engenharias (FGA),Gama,Diurno,EP_R1_PPI,4
+Engenharias (FGA),Gama,Diurno,EP_R2_NPPI,5
+Engenharias (FGA),Gama,Diurno,EP_R2_NPPIQ,1
+Engenharias (FGA),Gama,Diurno,EP_R2_NPPIQ_PCD,1
+Engenharias (FGA),Gama,Diurno,EP_R2_PPI,4
+Engenharias (FGA),Gama,Diurno,EP_R2_PPIQ,1
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2
+Estatística (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Farmácia (Bacharelado),Ceilândia,Diurno,AC,6
+Farmácia (Bacharelado),Ceilândia,Diurno,CN,6
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,5
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,5
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,4
+Farmácia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Farmácia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,AC,6
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,CN,3
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Farmácia (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,5
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Filosofia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI_PCD,1
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,AC,4
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+Filosofia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Fisioterapia (Bacharelado),Ceilândia,Diurno,AC,6
+Fisioterapia (Bacharelado),Ceilândia,Diurno,CN,6
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,5
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R1_PPIQ,1
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,5
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,5
+Fisioterapia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,AC,6
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,CN,5
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,4
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,4
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,5
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ_PCD,1
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,4
+Fonoaudiologia (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1
+Física (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Física (Bacharelado),Darcy Ribeiro,Diurno,CN,3
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Física (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Física (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Física (Licenciatura),Darcy Ribeiro,Noturno,CN,1
+Física (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Física (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,CN,1
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,2
+Geofísica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,5
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,2
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Geografia (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,CN,2
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Geologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,AC,2
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,EP_R2_NPPI,2
+Gestão Ambiental (Bacharelado),Planaltina,Noturno,EP_R2_PPI,1
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,CN,2
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,2
+Gestão de Agronegócio (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,CN,5
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,4
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPIQ,1
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,4
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Gestão de Políticas Públicas (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPIQ,1
+Gestão do Agronegócio (Bacharelado),Planaltina,Diurno,AC,5
+Gestão do Agronegócio (Bacharelado),Planaltina,Diurno,CN,1
+Gestão do Agronegócio (Bacharelado),Planaltina,Diurno,EP_R2_NPPI,1
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,6
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,6
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+História (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ_PCD,1
+História (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+História (Licenciatura),Darcy Ribeiro,Noturno,CN,3
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,4
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,4
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+História (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,CN,2
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Japonês (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI_PCD,1
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Jornalismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,1
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,2
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,2
+Letras - Espanhol (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,4
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,1
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Letras - Francês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,6
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,4
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Letras - Inglês (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,6
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,6
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Letras - Português (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,CN,1
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Letras - Português (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,3
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,AC,5
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,CN,2
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Letras – Português do Brasil como Segunda Língua (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Letras – Tradução – Espanhol (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,1
+Letras – Tradução – Francês (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Letras – Tradução – Francês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Letras – Tradução – Inglês (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,CN,2
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,2
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,3
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Línguas Estrangeiras Aplicadas (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,AC,6
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,CN,4
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Matemática (Bacharelado/Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,CN,3
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,2
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+Matemática (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ_PCD,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,5
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI_PCD,2
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Medicina (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ_PCD,1
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Medicina Veterinária (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,CN,3
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,2
+Museologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2
+Música (Bacharelado),Darcy Ribeiro,Diurno,AC,4
+Música (Licenciatura),Darcy Ribeiro,Diurno,AC,5
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,2
+Música (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,1
+Música (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Nutrição (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Odontologia (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,AC,6
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,CN,5
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPI,4
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPI,4
+Pedagogia (Licenciatura),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,CN,5
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPIQ,1
+Pedagogia (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,4
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,AC,5
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,CN,6
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_NPPI_PCD,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_PPI,5
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R1_PPIQ,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPIQ_PCD,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Psicologia (Bacharelado / Licenciatura / Psicólogo),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Química (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Química (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,5
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Química (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Química (Licenciatura),Darcy Ribeiro,Noturno,AC,5
+Química (Licenciatura),Darcy Ribeiro,Noturno,CN,1
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_NPPI,2
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R1_PPI,1
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_NPPI,4
+Química (Licenciatura),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,CN,2
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,1
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Química Tecnológica (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,2
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,AC,6
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,CN,6
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,5
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPIQ,1
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,4
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI_PCD,1
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,5
+Relações Internacionais (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,AC,5
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,CN,2
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,3
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,2
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,4
+Saúde Coletiva (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,3
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,CN,2
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,2
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Saúde Coletiva (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,CN,5
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,2
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPIQ,1
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPIQ,1
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,AC,5
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,CN,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_NPPI,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R1_PPI,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_NPPI,3
+Serviço Social (Bacharelado),Darcy Ribeiro,Noturno,EP_R2_PPI,2
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,AC,5
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,CN,1
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R1_PPI,1
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R2_NPPI,1
+"Teoria, Crítica e História da Arte (Bacharelado)",Darcy Ribeiro,Noturno,EP_R2_PPI,1
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,AC,6
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,CN,5
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_NPPI,4
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_NPPIQ,1
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R1_PPI,3
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_NPPI,5
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_NPPIQ,1
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_PPI,3
+Terapia Ocupacional (Bacharelado),Ceilândia,Diurno,EP_R2_PPIQ,1
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,AC,5
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,CN,4
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_NPPI,3
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R1_PPI,1
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_NPPI,4
+Turismo (Bacharelado),Darcy Ribeiro,Diurno,EP_R2_PPI,1

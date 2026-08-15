@@ -1,0 +1,12 @@
+{
+    "registros": 2306,
+    "triênios": 6,
+    "cursos": 90,
+    "campi": 4,
+    "modalidades": 17,
+    "nota_minima_global": -105.487,
+    "nota_maxima_global": 211.738,
+    "media_nota_minima": -12.719,
+    "media_nota_maxima": 21.106,
+    "amplitude_media": 34.6
+}
